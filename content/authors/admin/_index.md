@@ -186,7 +186,7 @@ education:
 ---
 
 ## About Me
-I'm a PhD candidate in the Computer Science program at Oxford under the supervision of Michael Bronstein and Ismail Ceylan, and in collaboration with AstraZeneca. My primary research interests include applying graph machine learning methods to help solve biological problems such as target identification, molecular property prediciton, and organic crystal structure generation. Before starting my PhD, I also worked full time as a software engineer at Facebook for two years, where I focused on building new privacy-safe ad products for healthcare advertisers. 
+I'm a PhD candidate in the Computer Science program at Oxford under the supervision of Michael Bronstein and Ismail Ceylan, and in collaboration with AstraZeneca. My primary research interests include applying graph machine learning methods to help solve biological problems such as target identification, molecular property prediciton, and organic crystal structure generation. Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia University. Before starting my PhD, I also worked full time as a software engineer at Facebook for two years, where I focused on building new privacy-safe ad products for healthcare advertisers. 
 
 Outside of work, I enjoy teaching, mentoring, and taking an active role in the Oxford Women in Computer Science and New College, Oxford communitites. 
 
