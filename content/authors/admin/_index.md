@@ -43,7 +43,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/ejin700
   - icon: brands/linkedin
-    url: https://www.linkedin.com/emily-jin-528855112
+    url: https://www.linkedin.com/in/emily-jin-528855112
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=BI4R8j4AAAAJ
 #  - icon: academicons/orcid
