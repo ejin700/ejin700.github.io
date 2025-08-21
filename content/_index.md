@@ -22,7 +22,7 @@ sections:
       # css_class: dark
       # Avatar customization
       avatar:
-        size: large  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       # background:
       #   color: black
@@ -81,10 +81,10 @@ sections:
       title: Publications
       filters:
         folders:
-          - publication
+          - publications
         # featured_only: true
     design:
-      view: card
+      view: article-grid
       columns: 2
   # - block: collection
   #   content:
