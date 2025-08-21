@@ -10,11 +10,11 @@ first_name: Emily
 last_name: Jin
 
 # Pronouns (optional)
-pronouns: she/her
+# pronouns: she/her
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
