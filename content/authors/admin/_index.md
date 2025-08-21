@@ -33,7 +33,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: "custom/mail"
+  - icon: hero/envelope
     url: 'mailto:emily.jin@cs.ox.ac.uk'
     label: E-mail Me
 #  - icon: brands/x
