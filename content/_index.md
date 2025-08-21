@@ -62,7 +62,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ['20px', 0, 0, 0]
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
