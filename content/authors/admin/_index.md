@@ -190,3 +190,6 @@ I'm a PhD candidate in the Computer Science program at Oxford under the supervis
 
 Outside of work, I enjoy teaching, mentoring, and taking an active role in the Oxford Women in Computer Science and New College, Oxford communitites. 
 
+### Recent News
+- Oxtal accepted as Oral to Pacifichem 2025!
+
