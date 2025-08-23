@@ -3,13 +3,26 @@
 title: ""
 date: 2022-10-24
 type: landing
-layout: page
 
 design:
   # Default section spacing
   spacing: "6rem"
 
 sections:
+  - block: markdown
+    id: teaching
+    content:
+      title: "Teaching"
+      content: |
+        ### University Courses
+
+        - **CS101** — Introduction to Programming (Fall 2023)  
+        - **CS202** — Data Structures and Algorithms (Spring 2024)
+
+        ### Workshops
+
+        - Python for Data Science, 2022  
+        - Git & GitHub Basics, 2023
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -95,20 +108,6 @@ sections:
   #       title: Section 1
   #       subtitle: A subtitle
   #       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-  - block: markdown
-    id: teaching
-    content:
-      title: "Teaching"
-      content: |
-        ### University Courses
-
-        - **CS101** — Introduction to Programming (Fall 2023)  
-        - **CS202** — Data Structures and Algorithms (Spring 2024)
-
-        ### Workshops
-
-        - Python for Data Science, 2022  
-        - Git & GitHub Basics, 2023
   # - block: collection
   #   content:
   #     title: Recent Publications
