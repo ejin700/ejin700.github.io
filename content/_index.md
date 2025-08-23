@@ -9,20 +9,6 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: markdown
-    id: teaching
-    content:
-      title: "Something else..."
-      content: |
-        ### University Courses
-
-        - **CS101** — Introduction to Programming (Fall 2023)  
-        - **CS202** — Data Structures and Algorithms (Spring 2024)
-
-        ### Workshops
-
-        - Python for Data Science, 2022  
-        - Git & GitHub Basics, 2023
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -100,6 +86,16 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+    id: teaching
+    content:
+      title: "Something else..."
+      subtitle: "Optional subtitle"
+      text: |
+        ## This is markdown content
+
+        - **Course A** – Intro
+        - **Course B** – Advanced
   # - block: markdown
   #   id: teaching
   #   content:
