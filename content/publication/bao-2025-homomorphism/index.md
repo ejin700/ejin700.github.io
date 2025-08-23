@@ -7,11 +7,9 @@ authors:
 - İsmail İlkan Ceylan
 - Matthias Lanzinger
 author notes:
-- "Equal Contribution"
-- "Equal Contribution"
--
--
--
+- Equal Contribution
+- Equal Contribution
+reading_time: false
 date: '2025-04-25'
 # publishDate: '2025-08-21T12:43:16.247484Z'
 publication_types:
