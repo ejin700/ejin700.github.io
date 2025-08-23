@@ -2,7 +2,7 @@
 title: Homomorphism Counts as Structural Encodings for Graph Learning
 authors:
 - Linus Bao*
-- emily-jin*
+- Emily Jin*
 - Michael Bronstein
 - İsmail İlkan Ceylan
 - Matthias Lanzinger
@@ -13,7 +13,7 @@ author notes:
 - ''
 - ''
 reading_time: false
-date: '2025-04-25'
+# date: '2025-04-25'
 # publishDate: '2025-08-21T12:43:16.247484Z'
 publication_types:
 - paper-conference

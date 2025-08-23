@@ -90,9 +90,10 @@ sections:
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+      content:
+        title: Section 1
+        subtitle: A subtitle
+        text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   # - block: collection
   #   content:
   #     title: Recent Publications
