@@ -192,9 +192,8 @@ I'm a PhD candidate in the Computer Science program at Oxford under the supervis
 Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia University. Before starting my PhD, I also worked full time as a software engineer at Facebook for two years, where I focused on building new privacy-safe ad products for healthcare advertisers. Outside of work, I enjoy teaching, mentoring, and taking an active role in the Oxford Women in Computer Science and New College, Oxford communitites. 
 
 ### Recent News
+- Teaching M2L
 - I'm helping to organize AI4MAT
 - Oxtal accepted as Oral to Pacifichem 2025!
 - Women in Computer Science Keep It Real
 - Presenting MoSE at ICLR
-- University of Cape Town,
-

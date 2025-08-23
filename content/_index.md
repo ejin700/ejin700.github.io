@@ -89,21 +89,18 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: "Something else..."
-      subtitle: "Optional subtitle"
+      title: "Teaching"
+      # subtitle: "Optional subtitle"
       text: |
-        ## This is markdown content
+        #### University of Oxford, Department of Computer Science
+        - <small>Geometric Deep Learning: HT '24</small>
+        - <small>Graph Representation Learning: HT '24, HT '25</small>
+        - <small>Artificial Intelligence: HT '23</small>
 
-        - **Course A** – Intro
-        - **Course B** – Advanced
-  # - block: markdown
-  #   id: teaching
-  #   content:
-  #     title: Teaching
-  #     content: 
-  #       title: Section 1
-  #       subtitle: A subtitle
-  #       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        #### University of Oxford, Doctoral Training Center
+        - <small>Geometric Deep Learning: HT '24</small>
+        - <small>Graph Representation Learning: HT '24, HT '25</small>
+        - <small>Artificial Intelligence: HT '23</small>
   # - block: collection
   #   content:
   #     title: Recent Publications
