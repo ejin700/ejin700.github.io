@@ -12,7 +12,7 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: "Teaching"
+      title: "Something else..."
       content: |
         ### University Courses
 
