@@ -17,5 +17,5 @@ links:
   - type: pdf
     url: https://www.biorxiv.org/content/10.1101/2021.06.02.446817v1.abstract
   - type: code
-    url: https://github.com/linusbao/MoSE
+    url: https://github.com/ShenLab/noncoding
 ---
