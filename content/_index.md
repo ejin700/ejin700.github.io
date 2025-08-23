@@ -90,6 +90,9 @@ sections:
     id: teaching
     content:
       title: Teaching
+      filters:
+        folders:
+          - teaching
   # - block: collection
   #   content:
   #     title: Recent Publications
