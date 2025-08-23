@@ -86,6 +86,10 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
   # - block: collection
   #   content:
   #     title: Recent Publications
