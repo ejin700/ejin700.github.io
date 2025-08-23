@@ -98,9 +98,16 @@ sections:
         - <small>Artificial Intelligence: HT '23</small>
 
         #### University of Oxford, Doctoral Training Center
-        - <small>Geometric Deep Learning: HT '24</small>
-        - <small>Graph Representation Learning: HT '24, HT '25</small>
-        - <small>Artificial Intelligence: HT '23</small>
+        - <small>Software Engineering: MT '22, MT '23</small>
+        - <small>Data Science for Drug Discovery: HT '23</small>
+
+        #### Columbia University, Department of Computer Science
+        - <small>COMS 4771: Machine Learning: Summer '19, Spring '20, Spring '21</small>
+        - <small>COMS 3157: Advanced Programming: Fall '17</small>
+        - <small>COMS 3136: Essential Data Structures: Fall '18, Spring '19</small>
+
+        #### Columbia University, Department of Mathematics
+        - <small>MATH 1201: Calculus III (Multivariable Calculus): Fall '16, Spring '17</small>
   # - block: collection
   #   content:
   #     title: Recent Publications
