@@ -194,6 +194,6 @@ Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia 
 ### Recent News
 - 📚 Excited to be the GNN tutor for [Mediterranean Machine Learning (M2L) Summer School](https://www.m2lschool.org/) in Split, Croatia. 
 - 🎉 Join us for the sixth edition of [AI4MAT](https://sites.google.com/view/ai4mat/home) @ NeurIPS 2025.
-- 🎉 Oxtal: A generative model for molecular crystal structure prediciton has been accepted as an Oral to [Pacifichem 2025](https://pacifichem.org/)! Stay tuned for our preprint...
+- 🎉 Oxtal: A generative model for molecular crystal structure prediciton has been accepted as an Oral to [Pacifichem 2025](https://pacifichem.org/)!
 - 🎤 Honored to speak as a panelist for Oxford Women in Computer Science: Keep It Real!
 - 🎤 We're presenting our [MoSE paper](https://iclr.cc/virtual/2025/poster/28259) at ICLR 2025 in Singapre.

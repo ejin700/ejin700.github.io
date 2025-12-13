@@ -1,7 +1,7 @@
 ---
 title: 'OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction'
 authors:
-- emily-jin*
+- Emily Jin*
 - Andrei Cristian Nica*
 - Mikhail Galkin
 - Jarrid Rector-Brooks
