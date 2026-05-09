@@ -38,6 +38,7 @@ sections:
     id: publications
     content:
       title: Publications
+      count: 0
       filters:
         folders:
           - publication
@@ -52,7 +53,7 @@ sections:
       # subtitle: "Optional subtitle"
       text: |
         #### Mediterranean Machine Learning (M2L) Summer School 
-        - <small>Graph Neural Networks: Fall '25</small>
+        - <small>Graph Neural Networks: 2025</small>
 
         #### University of Oxford, GirlsWhoML
         - <small>Neural Networks: HT '24</small>
