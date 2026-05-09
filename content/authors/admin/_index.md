@@ -187,13 +187,14 @@ education:
 ---
 
 ## About Me
-I'm a PhD candidate in the Computer Science program at Oxford under the supervision of Michael Bronstein and İsmail Ceylan, and in collaboration with AstraZeneca. My primary research interests include applying graph machine learning methods to help solve biological problems such as target identification, molecular property prediction, and organic crystal structure generation. 
+I'm currently a Research Scientist in the AI & Robotics Institute at the Ellison Institute of Technology. I recently completed my PhD in Computer Science at Oxford under the supervision of Michael Bronstein and İsmail Ceylan, and in collaboration with AstraZeneca. My research focuses on developing machine learning methods to help solve challenges in drug discovery and materials science, such as target identification, molecular property prediction, molecular crystal structure prediction, and DNA foundation modelling. 
 
-Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia University. Before starting my PhD, I also worked full time as a software engineer at Facebook for two years, where I focused on building new privacy-safe ad products for healthcare advertisers. Outside of work, I enjoy teaching, mentoring, and taking an active role in the Oxford Women in Computer Science and New College, Oxford communitites. 
+Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia University. Before starting my PhD, I also worked full time as a software engineer at Facebook for two years, where I focused on building privacy-safe ad products for healthcare advertisers. Outside of work, I enjoy teaching, traveling, and drinking nice tea 🍵
+
 
 ### Recent News
+- 🎤 I'm presenting [OXtal](https://iclr.cc/virtual/2025/poster/28259) at ICLR 2026 in Brazil!
+- 🎉 Join us for the fourth edition of [AI4MAT](https://sites.google.com/view/ai4mat/home) @ ICLR 2026.
 - 📚 Excited to be the GNN tutor for [Mediterranean Machine Learning (M2L) Summer School](https://www.m2lschool.org/) in Split, Croatia. 
+- 🎤 OXtal: A generative model for molecular crystal structure prediciton has been accepted as an Oral to [Pacifichem 2025](https://pacifichem.org/)!
 - 🎉 Join us for the sixth edition of [AI4MAT](https://sites.google.com/view/ai4mat/home) @ NeurIPS 2025.
-- 🎉 Oxtal: A generative model for molecular crystal structure prediciton has been accepted as an Oral to [Pacifichem 2025](https://pacifichem.org/)!
-- 🎤 Honored to speak as a panelist for Oxford Women in Computer Science: Keep It Real!
-- 🎤 We're presenting our [MoSE paper](https://iclr.cc/virtual/2025/poster/28259) at ICLR 2025 in Singapre.
