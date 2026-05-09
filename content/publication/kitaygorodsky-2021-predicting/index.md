@@ -1,6 +1,6 @@
 ---
-title: Predicting localized affinity of RNA binding proteins to transcripts with convolutional
-  neural networks
+title: Predicting Localized Affinity of RNA Binding Proteins to Transcripts with Convolutional
+  Neural Networks
 authors:
 - Alexander Kitaygorodsky
 - Emily Jin

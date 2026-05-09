@@ -1,6 +1,6 @@
 ---
-title: A review of computer-aided diagnostic algorithms for cervical neoplasia and
-  an assessment of their applicability to female genital schistosomiasis
+title: A Review of Computer-Aided Diagnostic Algorithms for Cervical Neoplasia and
+  an Assessment of Their Applicability to Female Genital Schistosomiasis
 authors:
 - Emily Jin
 - J Alison Noble
