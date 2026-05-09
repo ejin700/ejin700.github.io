@@ -1,10 +1,10 @@
 ---
 title: 'General Multimodal Protein Design Enables DNA-Encoding of Chemistry'
 authors:
-- Jarrid Rector-Brooks
-- Théophile Lambert
-- Marta Skreta
-- Daniel Roth
+- Jarrid Rector-Brooks*
+- Théophile Lambert*
+- Marta Skreta*
+- Daniel Roth*
 - Yueming Long
 - Zi-Qi Li
 - Xi Zhang
@@ -42,7 +42,7 @@ author notes:
 - ''
 - ''
 - ''
-date: '2026-04-06'
+date: '2026-05-09'
 # publishDate: '2025-08-21T12:43:16.225230Z'
 reading_time: false
 publication_types:
