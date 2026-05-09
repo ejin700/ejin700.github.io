@@ -34,47 +34,6 @@ sections:
         #   size: cover
         #   position: center
         #   parallax: false
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: post
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: date-title-summary
-  #     # Reduce spacing
-  #     spacing:
-  #       padding: ['20px', 0, 0, 0]
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
   - block: collection
     id: publications
     content:
@@ -92,6 +51,12 @@ sections:
       title: "Teaching"
       # subtitle: "Optional subtitle"
       text: |
+        #### Mediterranean Machine Learning (M2L) Summer School 
+        - <small>Graph Neural Networks: Fall '25</small>
+
+        #### University of Oxford, GirlsWhoML
+        - <small>Neural Networks: HT '24</small>
+
         #### University of Oxford, Department of Computer Science
         - <small>Geometric Deep Learning: HT '24</small>
         - <small>Graph Representation Learning: HT '24, HT '25</small>
@@ -108,26 +73,6 @@ sections:
 
         #### Columbia University, Department of Mathematics
         - <small>MATH 1201: Calculus III (Multivariable Calculus): Fall '16, Spring '17</small>
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

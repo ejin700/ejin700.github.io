@@ -50,11 +50,10 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
+  - AI for Science
   - Geometric Deep Learning
   - Graph Representation Learning
-  - AI for Science
-  - Biomedical Knowledge Graphs
-  - Crystal Structure Prediction
+  - Computational Biology
 
 education:
   - area: PhD Computer Science
@@ -63,137 +62,24 @@ education:
     date_end: 2025-10-01
     summary: |
       Supervised by [Prof. Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Prof. İsmail İlkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/).
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
   - area: MSc Computer Science
     institution: Columbia University
     date_start: 2019-09-01
     date_end: 2021-05-01
-#    summary: |
-#      GPA: 3.8/4.0
-
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Computer Science, Minor in Chemical Engineering
     institution: Columbia University
     date_start: 2015-09-01
     date_end: 2019-05-01
-#    summary: |
-#      GPA: 3.4/4.0
-      
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: code-bracket
-#      - name: Data Science
-#        description: ''
-#        percent: 100
-#        icon: chart-bar
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: circle-stack
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera
-
-# languages:
-#  - name: English
-#    percent: 100
-#  - name: Chinese
-#    percent: 75
-#  - name: Portuguese
-#    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#  - title: Neural Networks and Deep Learning
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
-#    icon: coursera
-#    summary: |
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#  - title: Blockchain Fundamentals
-#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#    date: '2023-07-01'
-#    awarder: edX
-#    icon: edx
-#    summary: |
-#      Learned:
-#      - Synthesize your own blockchain solutions
-#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#  - title: 'Object-Oriented Programming in R'
-#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#    certificate_url: https://www.datacamp.com
-#    date: '2023-01-21'
-#    awarder: datacamp
-#    icon: datacamp
-#    summary: |
-#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
-I'm currently a Research Scientist in the AI & Robotics Institute at the Ellison Institute of Technology. I recently completed my PhD in Computer Science at Oxford under the supervision of Michael Bronstein and İsmail Ceylan, and in collaboration with AstraZeneca. My research focuses on developing machine learning methods to help solve challenges in drug discovery and materials science, such as target identification, molecular property prediction, molecular crystal structure prediction, and DNA foundation modelling. 
+I'm currently a Research Scientist in the AI & Robotics Institute at the [Ellison Institute of Technology](https://eit.org/). I recently completed my PhD in Computer Science at the University of Oxford under the supervision of [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [İsmail Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/), and in collaboration with the Quantitative Biology group at AstraZeneca. My research focuses on developing machine learning methods to help solve challenges in drug discovery and materials science, such as target identification, molecular property prediction, molecular crystal structure prediction, and DNA foundation modelling. 
 
-Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia University. Before starting my PhD, I also worked full time as a software engineer at Facebook for two years, where I focused on building privacy-safe ad products for healthcare advertisers. Outside of work, I enjoy teaching, traveling, and drinking nice tea 🍵
+Prior to Oxford, I obtained both my MS and BS in Computer Science from Columbia University, working with [Yufeng Shen](https://systemsbiology.columbia.edu/faculty/yufeng-shen/pmg-people) and [Venkat Venkatasubramanian](https://www.cheme.columbia.edu/faculty-staff/directory/venkat-venkatasubramanian), respectively. While completing my MS, I also worked full time as a software engineer at Facebook for two years, where I focused on building privacy-safe ad products for healthcare advertisers. Outside of work, I enjoy teaching, traveling, and drinking tea 🍵
 
 
 ### Recent News
-- 🎤 I'm presenting [OXtal](https://iclr.cc/virtual/2025/poster/28259) at ICLR 2026 in Brazil!
+- 🎤 I'm presenting [OXtal](https://iclr.cc/virtual/2026/poster/10011387) at ICLR 2026 in Brazil!
 - 🎉 Join us for the fourth edition of [AI4MAT](https://sites.google.com/view/ai4mat/home) @ ICLR 2026.
 - 📚 Excited to be the GNN tutor for [Mediterranean Machine Learning (M2L) Summer School](https://www.m2lschool.org/) in Split, Croatia. 
 - 🎤 OXtal: A generative model for molecular crystal structure prediciton has been accepted as an Oral to [Pacifichem 2025](https://pacifichem.org/)!
