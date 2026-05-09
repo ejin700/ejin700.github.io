@@ -22,18 +22,16 @@
 
   {{ range $index, $raw := $authors }}
     {{- $stripped := $raw | strings.TrimRight "*" | strings.TrimSpace -}}
-    {{- $slug := $raw | urlize -}}
-    {{- $profile := partial "functions/get_author_profile" (dict "slug" $slug "title" $raw) -}}
+    {{- $slug := $stripped | urlize -}}
     {{- $termPage := site.GetPage (printf "/authors/%s" $slug) -}}
-    {{- $display := $profile.title | default $raw -}}
     {{- $highlightName := in $highlightNames ($stripped | lower) -}}
 
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlightName }}class="font-bold underline"{{end}}>
       {{- if $termPage -}}
-        <a href="{{ $termPage.RelPermalink }}">{{ $display }}</a>
+        <a href="{{ $termPage.RelPermalink }}">{{ $raw }}</a>
       {{- else -}}
-        {{ $display }}
+        {{ $raw }}
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}
