@@ -53,6 +53,7 @@ interests:
   - AI for Science
   - Geometric Deep Learning
   - Graph Representation Learning
+  - Diffusion Models
   - Computational Biology
 
 education:

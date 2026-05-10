@@ -1,7 +1,7 @@
 ---
 title: 'Homomorphism Counts for Graph Neural Networks: All About That Basis'
 authors:
-- emily-jin
+- Emily Jin
 - Michael Bronstein
 - İsmail İlkan Ceylan
 - Matthias Lanzinger

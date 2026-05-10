@@ -113,7 +113,7 @@
         {{ end }}
 
         {{- if $hasEqualContrib -}}
-        <div class="w-full text-sm text-gray-500 dark:text-gray-400 mt-1">*Equal contribution.</div>
+        <span class="mx-1">·</span><span>*Equal contribution.</span>
         {{- end -}}
 
         {{ if ne .Params.reading_time false }}
