@@ -53,7 +53,7 @@ sections:
       # subtitle: "Optional subtitle"
       text: |
         #### Mediterranean Machine Learning (M2L) Summer School 
-        - <small>Graph Neural Networks: 2025</small>
+        - <small>Graph Neural Networks: 2025 Edition</small>
 
         #### University of Oxford, GirlsWhoML
         - <small>Neural Networks: HT '24</small>

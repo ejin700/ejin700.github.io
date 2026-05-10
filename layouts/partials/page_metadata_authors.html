@@ -2,10 +2,11 @@
 
 {{- $authors := .Params.authors -}}
 
-{{/* Build set of names to highlight from author profiles with highlight_name: true */}}
+{{/* Build set of names to highlight. site.Pages excludes _index.md branch bundles,
+     so look up the admin author profile directly. */}}
 {{- $highlightNames := slice -}}
-{{- range site.Pages -}}
-  {{- if and (eq .Type "authors") .Params.highlight_name -}}
+{{- with site.GetPage "/authors/admin" -}}
+  {{- if .Params.highlight_name -}}
     {{- $highlightNames = $highlightNames | append (.Title | lower) -}}
   {{- end -}}
 {{- end -}}
